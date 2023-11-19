@@ -6,3 +6,5 @@ date: 2022-11-05
 ---
 
 It's a beautiful world out there.
+
+From kasihkode.com
